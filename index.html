@@ -28,6 +28,7 @@
 
   <title>Caliana Visitor Management System App</title>
   <link rel="manifest" href="manifest.json">
+  <base href="/">
 </head>
 <body>
   <!-- This script installs service_worker.js to provide PWA functionality to
@@ -36,7 +37,7 @@
   <script>
     if ('serviceWorker' in navigator) {
       window.addEventListener('flutter-first-frame', function () {
-        // navigator.serviceWorker.register('flutter_service_worker.js?v=124621242');
+        // navigator.serviceWorker.register('flutter_service_worker.js?v=250248357');
         navigator.serviceWorker.register('/firebase-messaging-sw.js');
       });
     }
