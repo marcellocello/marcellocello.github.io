@@ -39,10 +39,10 @@ const RESOURCES = {
 "firebase-messaging-sw.js": "9df68976145355fc249847eade6d23ea",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "e42c99f783af071cc6a3871521657d46",
-"/": "e42c99f783af071cc6a3871521657d46",
-"init.js": "b14a9139cd1ca869129fe001b77e2649",
-"main.dart.js": "fab7af4c7640f23f9760e28a7968d23c",
+"index.html": "39f50714268cb558dd693d40ebfc38a9",
+"/": "39f50714268cb558dd693d40ebfc38a9",
+"init.js": "cb875dfcdfee67a8658ed89e06b458f3",
+"main.dart.js": "74c46b3ba2a71b012333cd703550f392",
 "manifest.json": "1a38255cadf4fa6b34ea3242272b1bb8",
 "version.json": "0db3714fd6f0e9107b2355edc2c54ff0"
 };
